@@ -5,4 +5,4 @@ Inspired by [Plaid](https://github.com/nickbutcher/plaid) project and code based
 
 Screenshots
 
-<img src="fabdialog.gif" width="400" >
+<img src="fabdialog.gif" width="320" align="right" hspace="20">
