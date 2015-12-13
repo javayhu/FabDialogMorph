@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FabDialog</string>
+    <string name="title_activity_main">Fab Dialog Morph Animation</string>
+    <string name="transition_dialog">transition_dialog</string>
+</resources>
