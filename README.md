@@ -5,7 +5,7 @@ It's simple but also flexible to use, hope you enjoy it!
 
 Inspired by [Plaid](https://github.com/nickbutcher/plaid) project and some code based on it.
 
-[See the description of the implementation on my blog](http://hujiaweibujidao.github.io/blog/2015/12/13/Fab-and-Dialog-Morphing-Animation/)
+[See the description of the implementation on my blog](https://hujiaweibujidao.github.io/blog/2015/12/13/Fab-and-Dialog-Morphing-Animation/)
 
 ## License
 
